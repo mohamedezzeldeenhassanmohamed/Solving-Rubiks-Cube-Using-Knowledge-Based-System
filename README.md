@@ -1,6 +1,6 @@
 # Knowledge-Based-Systems
 
-![OIP](https://github.com/user-attachments/assets/0283d3ca-ff20-4ce5-9075-fd1899df3eb7)
+![0763776475](https://github.com/user-attachments/assets/61306022-b4a1-411b-9dc4-8e37267489fd)
 
 Knowledge-Based Systems (KBS) are computer programs that use knowledge and inference to solve complex problems that typically require human expertise. They consist of a knowledge base, which contains domain-specific knowledge, and an inference engine, which applies logical rules to the knowledge base to deduce new information or make decisions.
 
