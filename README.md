@@ -45,11 +45,11 @@ Applications of KBS include medical diagnosis, financial forecasting, troublesho
 
 1- Consistency: They provide consistent answers for repetitive decisions, reducing human error.
 
-2-Availability: KBS can be available 24/7, providing support whenever needed.
+2- Availability: KBS can be available 24/7, providing support whenever needed.
 
-3-Scalability: They can handle large amounts of data and complex decision-making processes.
+3- Scalability: They can handle large amounts of data and complex decision-making processes.
 
-4-Cost-Effectiveness: Reduces the need for human experts in certain areas, saving costs.
+4- Cost-Effectiveness: Reduces the need for human experts in certain areas, saving costs.
 
 # Challenges and Limitations
 
@@ -62,6 +62,7 @@ Applications of KBS include medical diagnosis, financial forecasting, troublesho
 4- User Trust: Users may be hesitant to rely on automated systems for critical decisions.
 
 # Applications
+
 1- Healthcare: Diagnosis and treatment recommendations.
 
 2- Finance: Risk assessment and investment analysis.
