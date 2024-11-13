@@ -101,3 +101,4 @@ In summary, Knowledge-Based Systems are a powerful intersection of artificial in
 
 Knowledge-Based Systems continue to evolve with advancements in artificial intelligence, machine learning, and data analytics, making them increasingly powerful tools across various industries.
 
+# Read more from here (MIT OpenCourseWare) : https://ocw.mit.edu/courses/6-871-knowledge-based-applications-systems-spring-2005/pages/lecture-notes/ 
